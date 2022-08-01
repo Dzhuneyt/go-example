@@ -1,4 +1,4 @@
-package main
+package arrays_and_slices
 
 func SumAll(numbersToSum ...[]int) (sums []int) {
 	numberOfArguments := len(numbersToSum)
